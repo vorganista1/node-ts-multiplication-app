@@ -11,7 +11,12 @@ npm install
 2. Correr 
 `````````
 npm run dev 
+
 o
 
-npx ts-node src/app.ts --base 1 -s -l 10 -n table-1 -d "files/more-files"
+npx ts-node src/app.ts --base 1 -s -l 10 -n table-1 -d "files/more-files" 
+
+0
+
+$ px ts-node src/app.ts --base 1 -s -l 10 -n table-1 -d "output/"
 `````````
